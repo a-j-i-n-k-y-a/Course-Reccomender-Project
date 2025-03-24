@@ -1,1 +1,1 @@
-# Course-Reccomender-Project
+# Recommender-System-Algos
