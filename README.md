@@ -8,7 +8,7 @@ This project aims to build a comprehensive course recommendation engine by integ
 
 2) K-Means Clustering
 
-3)KNN Collaborative Filtering
+3) KNN Collaborative Filtering
 
 4) NMF Collaborative Filtering
 
